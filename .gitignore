@@ -1,0 +1,13 @@
+# XAMPP / PHP
+.env
+*.log
+/vendor/
+/cache/
+/temp/
+
+# VS Code
+.vscode/
+
+# Bancos
+*.db
+*.sqlite
