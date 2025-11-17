@@ -20,7 +20,7 @@ header("refresh:3;url=$destino");
 <html lang="pt-br">
 <head>
   <meta charset="UTF-8">
-  <title>Carregando...</title>
+  <title>Fretemax</title>
   <style>
     body {
       margin: 0; padding: 0;
